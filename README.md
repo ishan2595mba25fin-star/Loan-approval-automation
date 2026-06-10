@@ -102,18 +102,6 @@ IF Credit Score ≥ 700
 Send Email Notification
 ```
 
----
-
-# 📈 Model Evaluation
-
-The model is evaluated using:
-
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- AUC
-- Confusion Matrix
 
 ---
 
