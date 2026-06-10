@@ -108,23 +108,28 @@ Send Email Notification
 # 📷 Project Screenshots
 
 ## Orange Workflow
-![Orange Workflow](screenshots/orange_workflow.png)
+![Orange Workflow](<img width="1600" height="850" alt="orange_workflow" src="https://github.com/user-attachments/assets/d36ff921-d8a2-4cfa-8811-4d4f3ff1a1b5" />
+)
 
 ---
 
 ## Dataset Preview
-![Dataset Preview](screenshots/dataset_preview.png)
+![Dataset Preview]<img width="1600" height="946" alt="dataset_preview png" src="https://github.com/user-attachments/assets/ecf5b26f-31c8-4fe6-893b-6aa1561e5741" />
+
+
 
 ---
 
 ## n8n Workflow
-![n8n Workflow](screenshots/n8n_workflow.png)
+![n8n Workflow]<img width="1600" height="946" alt="n8n_workflow png" src="https://github.com/user-attachments/assets/a935a217-f072-4502-9d60-6b17c057217c" />
+
 
 
 ---
 
 ## Model Accuracy
-![Model Accuracy](screenshots/model_accuracy.png)
+![Model Accuracy]<img width="1600" height="946" alt="bi dash" src="https://github.com/user-attachments/assets/401c977c-b872-4f80-9b5c-2d740fd3f38b" />
+
 ---
 
 # 📊 Power BI Dashboard
