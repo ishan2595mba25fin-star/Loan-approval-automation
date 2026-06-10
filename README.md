@@ -108,8 +108,8 @@ Send Email Notification
 # 📷 Project Screenshots
 
 ## Orange Workflow
-![Orange Workflow](<img width="1600" height="850" alt="orange_workflow" src="https://github.com/user-attachments/assets/d36ff921-d8a2-4cfa-8811-4d4f3ff1a1b5" />
-)
+![Orange Workflow]<img width="1600" height="850" alt="orange_workflow" src="https://github.com/user-attachments/assets/e485d153-8482-4456-8495-a5577d4eb781" />
+
 
 ---
 
