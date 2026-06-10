@@ -120,15 +120,26 @@ Send Email Notification
 ## n8n Workflow
 ![n8n Workflow](screenshots/n8n_workflow.png)
 
----
-
-## Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
 
 ---
 
 ## Model Accuracy
 ![Model Accuracy](screenshots/model_accuracy.png)
+---
+
+# 📊 Power BI Dashboard
+
+The dashboard provides business insights into:
+
+- Loan Approval Trends
+- Customer Risk Analysis
+- Credit Score Distribution
+- Approval vs Rejection Rate
+- Financial Performance Metrics
+
+![Power BI Dashboard](screenshots/Dashboard.png)
+
+---
 
 ---
 
