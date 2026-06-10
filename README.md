@@ -142,7 +142,32 @@ The dashboard provides business insights into:
 - Approval vs Rejection Rate
 - Financial Performance Metrics
 
-![Power BI Dashboard](screenshots/Dashboard.png)
+![Power BI Dashboard](screenshots/Dashboard.png)# 🚨 Risk Classification System
+
+| Risk Level | Decision |
+|---|---|
+| Low Risk | Approved |
+| Medium Risk | Manual Review |
+| High Risk | Rejected |
+
+The machine learning model classifies applicants using:
+
+- Credit Score
+- Monthly Income
+- Existing Loans
+- EMI Percentage
+- Savings Balance
+
+---
+
+## APPROVED LOAN 
+
+![APPROVED LOAN]<img width="791" height="1600" alt="approved " src="https://github.com/user-attachments/assets/6729c789-8eee-419d-b1d7-389dbd63dbb7" />
+
+
+
+
+---
 
 ---
 
